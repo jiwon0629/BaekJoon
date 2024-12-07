@@ -1,0 +1,5 @@
+A,B,C = input().split()
+c = int(C)
+a = int(A)
+b = int(B)
+print(a+b+c)
